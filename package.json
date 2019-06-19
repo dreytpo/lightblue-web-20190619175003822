@@ -8,7 +8,8 @@
     "postinstall": "bower install"
   },
   "engines": {
-   "node": ">=8.0.0"
+    "node": "0.12.7",
+    "npm": "2.7.4"
   },
   "directories": {
     "test": "test"
